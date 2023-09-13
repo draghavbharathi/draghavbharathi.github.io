@@ -1,4 +1,5 @@
 baseURL = 'https://draghavbharathi.github.io/'
+publishDir = "docs"
 languageCode = 'en-us'
 title = 'Nikola Tesla'
 theme = "stack"

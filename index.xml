@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Nikola Tesla</title>
+        <link>https://draghavbharathi.github.io/</link>
+        <description>Recent content on Nikola Tesla</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://draghavbharathi.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AlternatingCurrent</title>
+        <link>https://draghavbharathi.github.io/p/alternatingcurrent/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://draghavbharathi.github.io/p/alternatingcurrent/</guid>
+        <description>&lt;img src="https://draghavbharathi.github.io/AC.png" alt="Featured image of post AlternatingCurrent" /&gt;&lt;h1 id=&#34;alternating-current-ac&#34;&gt;Alternating Current (AC)&lt;/h1&gt;
+&lt;h2 id=&#34;definition&#34;&gt;Definition:&lt;/h2&gt;
+&lt;p&gt;AC, or alternating current, is a type of electrical current in which the direction of the flow of electrons periodically reverses. This means the electrical charge alternates in polarity, moving back and forth in a circuit. It&amp;rsquo;s in contrast to direct current (DC), where the electrons flow steadily in one direction.&lt;/p&gt;
+&lt;h2 id=&#34;generation&#34;&gt;Generation:&lt;/h2&gt;
+&lt;p&gt;AC electricity is typically generated in power plants using electromagnetic induction. It&amp;rsquo;s produced by rotating generators, which create a fluctuating magnetic field that induces an AC current in coils of wire.&lt;/p&gt;
+&lt;h2 id=&#34;voltage-and-frequency&#34;&gt;Voltage and Frequency:&lt;/h2&gt;
+&lt;p&gt;AC voltage constantly changes in amplitude and direction. In most countries, the standard AC voltage for household use is around 110-120 volts or 220-240 volts, depending on the region. The frequency, which is the rate at which the direction of current changes, is typically 50 or 60 hertz (Hz).&lt;/p&gt;
+&lt;h2 id=&#34;advantages&#34;&gt;Advantages:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Efficient Transmission:&lt;/strong&gt; AC is well-suited for long-distance power transmission because it can be easily transformed to higher or lower voltages using transformers. This minimizes energy losses during transmission.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safe for Human Use:&lt;/strong&gt; AC at typical household voltages is generally considered safer for human contact than high-voltage DC.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Versatility:&lt;/strong&gt; AC is highly adaptable and can be easily converted to other forms of energy, such as mechanical energy in AC motors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;applications&#34;&gt;Applications:&lt;/h2&gt;
+&lt;p&gt;AC power is used in homes, businesses, and industries for a wide range of applications, including lighting, heating, air conditioning, refrigeration, and running electric motors.&lt;/p&gt;
+&lt;h2 id=&#34;inventors-and-pioneers&#34;&gt;Inventors and Pioneers:&lt;/h2&gt;
+&lt;p&gt;While Nikola Tesla played a significant role in promoting AC electricity and developing the AC motor, AC principles were explored by earlier scientists and inventors like Michael Faraday and Galileo Ferraris.&lt;/p&gt;
+&lt;h2 id=&#34;war-of-the-currents&#34;&gt;War of the Currents:&lt;/h2&gt;
+&lt;p&gt;In the late 19th century, there was a famous debate between proponents of AC (Tesla and Westinghouse) and DC (Thomas Edison and General Electric) systems known as the &amp;ldquo;War of the Currents.&amp;rdquo; AC ultimately emerged as the dominant system for power distribution.&lt;/p&gt;
+&lt;p&gt;In summary, alternating current (AC) is a type of electricity characterized by its periodic reversal of electron flow direction. It is the standard for electricity distribution worldwide due to its efficiency, ease of transformation, and versatility in various applications.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

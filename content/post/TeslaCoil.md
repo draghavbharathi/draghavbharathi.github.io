@@ -1,6 +1,6 @@
 ---
 title: "Tesla Coil"
-draft: true
+draft: falses
 image: TeslaCoil.png
 ---
 

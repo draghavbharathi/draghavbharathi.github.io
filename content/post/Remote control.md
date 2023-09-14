@@ -1,6 +1,6 @@
 ---
 title: "Remote Control"
-draft: true
+draft: falses
 image: rc.png
 ---
 Nikola Tesla made significant contributions to the development of remote control technology, particularly in the late 19th and early 20th centuries. Here's an overview of Tesla's work related to remote control:

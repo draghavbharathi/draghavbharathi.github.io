@@ -1,6 +1,6 @@
 ---
 title: "Radio"
-draft: true
+draft: falses
 image: radio.png
 ---
 

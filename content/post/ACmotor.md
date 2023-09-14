@@ -1,6 +1,6 @@
 ---
 title: "ACmotor"
-draft: true
+draft: falses
 image: motor.png
 ---
 

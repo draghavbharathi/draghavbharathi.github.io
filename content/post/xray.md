@@ -1,6 +1,6 @@
 ---
 title: "Xray"
-draft: true
+draft: false
 image: xray.png
 ---
 

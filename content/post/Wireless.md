@@ -1,6 +1,6 @@
 ---
 title: "Wireless"
-draft: true
+draft: falses
 image: wireless.png
 ---
 
